@@ -1,0 +1,13 @@
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\bin\Debug\netcoreapp3.1\Tp7.exe
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\bin\Debug\netcoreapp3.1\Tp7.deps.json
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\bin\Debug\netcoreapp3.1\Tp7.runtimeconfig.json
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\bin\Debug\netcoreapp3.1\Tp7.runtimeconfig.dev.json
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\bin\Debug\netcoreapp3.1\Tp7.dll
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\bin\Debug\netcoreapp3.1\Tp7.pdb
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.csprojAssemblyReference.cache
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.AssemblyInfoInputs.cache
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.AssemblyInfo.cs
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.csproj.CoreCompileInputs.cache
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.dll
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.pdb
+D:\taller\tpn7-EnzoBulacio\Tp7\Tp7\obj\Debug\netcoreapp3.1\Tp7.genruntimeconfig.cache
